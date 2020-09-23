@@ -14,6 +14,7 @@ figcaption{
   font-size: 12px;
 }
 
+/*Center our image: We only have one image on the page and we would like it centered!*/
 #featured-property{
   text-align: center;
   align-items: center;
