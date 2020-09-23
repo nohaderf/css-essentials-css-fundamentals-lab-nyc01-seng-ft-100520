@@ -5,7 +5,7 @@ h1, nav {
 nav > a {
   padding-right: 10px;
   padding-left: 10px;
-  background-color: grey;
+  background-color: #fff000;
 }
 figcaption{
   font-size: 12px;
