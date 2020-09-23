@@ -15,6 +15,7 @@ figcaption{
 #details{
   display: block;
   float: left;
+  margin: auto;
 }
 
 body {
