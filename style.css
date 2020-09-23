@@ -1,11 +1,10 @@
 h1, nav, img {
   text-align: center;
-  align-items: center;
-  justify-content: center
 }
 
 img {
-  
+  align-items: center;
+  justify-content: center
 }
 
 figcaption{
