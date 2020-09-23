@@ -3,7 +3,8 @@ h1{
 }
 
 img {
-  margin: auto;
+  align-items: center;
+  justify-content: center
 }
 
 figcaption{
