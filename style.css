@@ -10,6 +10,7 @@ nav > a {
   background-color: #fff000;
 }
 
+/*Our image caption needs work: Let's shrink that font size down and make sure it is centered.*/
 figcaption{
   font-size: 12px;
 }
