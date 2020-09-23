@@ -18,6 +18,7 @@ figcaption{
   display: block;
   float: left;
   margin: auto;
+  horizontal-align: middle;
 }
 
 body {
