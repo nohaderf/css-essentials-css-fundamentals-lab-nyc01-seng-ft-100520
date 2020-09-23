@@ -1,5 +1,51 @@
+/*Update the header: the text is a little wonky being aligned on the left like that. Provide a property that aligns it in the center instead*/
+h1, nav {
+  text-align: center;
+}
+
+/*Jazz up our navigation links: Let's center all of our nav links as well. Give all of the <a> tags within our navbar padding of 10px on their left and right sides. In addition, change their background color to something of your choosing. */
+nav > a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: #fff000;
+}
+
+/*Our image caption needs work: Let's shrink that font size down and make sure it is centered.*/
+figcaption{
+  font-size: 12px;
+}
+
+/*Center our image: We only have one image on the page and we would like it centered!*/
+#featured-property{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+/*Update the text block: Wouldn't it look nicer if our text was centered as well? Our image is about 900px wide, so let's give all our <p> within #featured-property a hard width of 800px and center the text in there.*/
+#featured-property p {
+  margin-right: auto;
+  margin-left: auto;
+  width: 800px;
+}
+
+/*Make our #details section horizontal: The details section could go nicely as a footer to the page, instead of a vertical list. Change its display value to block and make sure each of the <div>s is floating to the left.*/
+#details{
+  display: block;
+}
+
+/*As a finishing touch: Let's clean up the <div>s at the bottom of the page. All of them should have the same background color, centered text, and occupy 25% of the width of the bottom row (since we have 4 divs).*/
+#details div{
+  float: left;
+  background-color: #FFF222;
+  text-align: center;
+  width: 25%;
+}
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
 }
+
+
