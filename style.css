@@ -17,6 +17,11 @@ figcaption{
   text-align: center;
 }
 
+#details{
+  display: block;
+  float: left;
+}
+
 body {
   width: 100%;
   height: 100%;
