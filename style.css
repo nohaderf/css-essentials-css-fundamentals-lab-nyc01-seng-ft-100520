@@ -37,7 +37,7 @@ figcaption{
 /*As a finishing touch: Let's clean up the <div>s at the bottom of the page. All of them should have the same background color, centered text, and occupy 25% of the width of the bottom row (since we have 4 divs).*/
 #details div{
   float: left;
-  background-color: #222;
+  background-color: #222000;
 }
 
 body {
