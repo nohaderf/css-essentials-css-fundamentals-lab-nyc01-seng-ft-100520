@@ -1,6 +1,8 @@
+/*Update the header: the text is a little wonky being aligned on the left like that. Provide a property that aligns it in the center instead*/
 h1, nav {
   text-align: center;
 }
+
 
 nav > a {
   padding-right: 10px;
